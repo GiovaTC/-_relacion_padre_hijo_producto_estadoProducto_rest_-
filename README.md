@@ -1,7 +1,11 @@
 # -_relacion_padre_hijo_producto_estadoProducto_rest_- :.
 # Servicio REST en Java 21 con Spring Boot 3 y MySQL:
 
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/8b4af2dc-ae92-47c6-a298-15fe330ede9b" />  
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/8b4af2dc-ae92-47c6-a298-15fe330ede9b" />    
+
+<img width="2555" height="1079" alt="image" src="https://github.com/user-attachments/assets/62330541-23d5-4521-9eec-d3fb1fe8a523" />    
+
+<img width="2559" height="1006" alt="image" src="https://github.com/user-attachments/assets/a27fe816-dd76-44ce-b298-7de2ef5014cb" />    
 
 ```
 
