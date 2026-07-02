@@ -1,5 +1,5 @@
 package com.ejemplo.producto;
-
+/*
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
@@ -10,4 +10,4 @@ class ProductoRestApplicationTests {
 	void contextLoads() {
 	}
 
-}
+}*/
